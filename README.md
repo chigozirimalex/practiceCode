@@ -8,11 +8,11 @@ Git is a version control system that allows developers to track changes in their
 
 ## 3 List 3 other github alternatives
 
-- ### GitLab
+- GitLab
 
-- ### Bitbucket
+- Bitbucket
 
-- ### SourceForge
+- SourceForge
 
 ## 4 Explain the difference between git fetch and git pull
 
@@ -26,9 +26,9 @@ The git rebase command allows you to easily change a series of commits, modifyin
 
 ### Typically, we would use git rebase to:
 
-- #### Edit previous commit messages
-- #### Combine multiple commits into one
-- #### Delete or revert commits that are no longer necessary
+- Edit previous commit messages
+- Combine multiple commits into one
+- Delete or revert commits that are no longer necessary
 
 ## 6 Explain in simple terms git cherry-pick and the command for it
 
